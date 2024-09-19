@@ -1,0 +1,1 @@
+The above file is dedicated as an assignment to the admin of the YouseAI. It takes user input from database(MongoDB) linked in it.We can edit and modify the values,Enter the light and dark mode whenever we want
